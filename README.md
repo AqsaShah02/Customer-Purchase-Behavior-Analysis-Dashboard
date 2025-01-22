@@ -1,8 +1,8 @@
-# Customer-Purchase-Behavior-Analysis-Dashboard
+ Customer-Purchase-Behavior-Analysis-Dashboard
 An interactive Python dashboard to analyze customer purchase data using Pandas, Numpy, Matplotlib, and Seaborn. Features include gender distribution, seasonal trends, and payment preferences, with a Tkinter GUI and exportable cleaned datasets for further analysis.
-
+![Screenshot 2025-01-22 143536](https://github.com/user-attachments/assets/302f078b-01a7-4b24-bfd4-916b0ca87751)
 ![image](https://github.com/user-attachments/assets/1d3a5a86-6203-4148-9078-97816596720c)
-![Uploading Screenshot 2025-01-22 143536.png…]()
+
 
 How to Use
 Clone the repository:
